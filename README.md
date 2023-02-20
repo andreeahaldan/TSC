@@ -5,7 +5,9 @@ Prezenta se face pe baza commit-ului din cadrul fiecarui laborator.
 
 Commit-urile se vor face din terminal.
 
-Tools : - Visuals Studio Code
+Tools : 
+        
+        - Visuals Studio Code
 
         - Modelsim 10.6 recomandat ( Modelsim 6.6d  instalat)
         
