@@ -42,6 +42,10 @@ git status
         
 	git config --global --list
 
+        4) git config --global credential.helper store
+
+        5) ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 
-Cum fac sa sterg credentialele?
+
+TEMA 1: Cum fac sa sterg credentialele?
