@@ -18,3 +18,6 @@ Limbaj de programare: SystemVerilog
 Adaugam pe domn profesor ca si colaborator la acest proiect. 
 
 Prezenta obligatorie. 
+
+**********LABORATORUL 2************
+git status
