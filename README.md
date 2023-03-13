@@ -22,4 +22,7 @@ LABORATOR 2
 - git config --global credential.helper store
 - ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
-TEMA 1: Cum fac sa sterg credentialele?
+TEMA LAB4: 
+1. write_pointer: incremental sau random
+2. read_pointer: incremental sau random
+3. cross intre write_pointer si read_pointer (4 cazuri)
