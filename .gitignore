@@ -3,9 +3,11 @@
 */test.v:Zone.Identifier
 */modelsim.ini
 
+
 */lab2.zip
 */lab2.zip:Zone.Identifier
 */lab2/lab01_testbench-interface/tb_ifc.sv
 */lab2/lab01_testbench-interface/run.f
-
+*/lab2/sim
+*/lab2/work
 
