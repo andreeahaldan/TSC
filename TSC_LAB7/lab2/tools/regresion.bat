@@ -1,4 +1,0 @@
-call run_test_wr_incr_rd_incr.bat
-call run_test_wr_incr_rd_random.bat
-call run_test_wr_random_rd_incr.bat
-call run_test_er_random_rd_random.bat
